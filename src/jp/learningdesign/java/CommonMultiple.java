@@ -6,7 +6,7 @@ public class CommonMultiple {
 		int i = 1;
 		while (i < 100) {
 			if ((i % 2 == 0) && (i % 3 == 0)) { 
-				// 論理演算子(論理積)
+				// 論理積
 				System.out.println(i);
 			}
 			i++; // インクリメント演算子
